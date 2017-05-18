@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+	font-size: 24px;
+  	line-height: 32px;
+  	color: #333;
+  	margin: 80px;
+  	text-align: center;
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+  line-height: 45px
+}
+
+nav {
+	padding: 20px;
+  	margin-bottom: 20px;
+  	color: #333;
+  	background: #ccc;
+}
+
+section{
+	float: left;
+  	width: 58%;
+  	height: 300px;
+  	padding: 20px;
+  	background: #ccc;
+  	border: 1px solid #eee;
+  	margin-bottom: 20px;
+}
+
+article{
+	width: auto;
+	height: auto;
+	padding: 10px;
+	background: white;
+}
+
+p{
+	width: auto;
+	height: auto;
+	background: #ccc;
+	padding: 10px;
+}
+
+aside {
+	float: right;
+	width: 40%;
+	height: 300px;
+	background: #ccc;
+	margin-bottom: 20px;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  margin-top: 20px;
+  background: #ccc;
+}
